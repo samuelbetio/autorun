@@ -1,3 +1,4 @@
+# autorun
 aurorun - A jQuery plugin for automating interaction
 
 DESCRIPTION
